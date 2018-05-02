@@ -10,7 +10,7 @@ body { font-family: sans-serif; }
 
 .carousel-cell {
   width: 70%;
-  height: 200px;
+  height: 400px;
   /* flex-box, center image in cell */
   display: -webkit-box;
   display: -webkit-flex;
